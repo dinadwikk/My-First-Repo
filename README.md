@@ -4,4 +4,4 @@ NPM     : 2106751650
 
 Kelas   : B
 
-Hobi    : Tidur 
+Hobi    : Nonton 
